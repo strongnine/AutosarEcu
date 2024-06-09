@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ecu_state_manage.h": "c",
+        "stdint.h": "c",
+        "intdef.h": "c",
+        "inttypes.h": "c",
+        "can_rx.h": "c",
+        "rte_app1_state_manage.h": "c",
+        "stdio.h": "c",
+        "bsw_if.h": "c",
+        "rte_app1_nvm_manage.h": "c"
+    }
+}
